@@ -2,7 +2,9 @@
 
 A simple but robust deployment of a Vite app to GitHub Pages.
 
-The Actions workflow is built from a combination of the [Vite documentation on static sites][vite-static] along with the documentation from the various GitHub Actions in use.
+The Actions workflow is built from a combination of the [Vite documentation on static sites][vite-static] along with the documentation from the various GitHub Actions in use and my own wisdom.
+
+[vite-static]: https://vitejs.dev/guide/static-deploy.html
 
 ## Fixing the broken Vite logo
 
@@ -30,9 +32,4 @@ npm run preview -- --base /test
 npm run dev -- --base /test
 ```
 
-[I've raised an MR to fix this][fix-broken-vite-logo-mr] for anyone generating projects in the future.
-
-[vite-static]: https://vitejs.dev/guide/static-deploy.html
-[vite-issue-react-broken-icon]: https://github.com/vitejs/vite/issues/10601
-[vite-issue-missing-base-path]:
-[fix-broken-vite-logo-mr]: https://github.com/vitejs/vite/pull/12374
+[I've raised an MR to fix this](https://github.com/vitejs/vite/pull/12374) for anyone generating projects in the future.
