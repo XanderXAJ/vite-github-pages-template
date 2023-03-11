@@ -2,7 +2,7 @@
 
 A simple but robust deployment of a Vite app to GitHub Pages.
 
-The Actions workflow is built from a combination of the [Vite documentation on static sites][vite-static] along with the documentation from the various GitHub Actions in use and my own wisdom.
+[The Actions workflow](./.github/workflows/publish.yaml) is built from a combination of the [Vite documentation on static sites][vite-static], the documentation from the various GitHub Actions in use and my own wisdom.
 
 [vite-static]: https://vitejs.dev/guide/static-deploy.html
 
