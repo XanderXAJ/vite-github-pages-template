@@ -8,7 +8,7 @@ A simple but robust deployment of a Vite app to GitHub Pages.
 
 ## Fixing the broken Vite logo
 
-When production building the app for GitHub Pages, you'll notice the that the Vite log ends up broken.
+When production building the app for GitHub Pages, you'll notice the that the Vite logo ends up broken.
 
 [I'm not the only one to have noticed](https://github.com/vitejs/vite/issues/10601). [A fix was suggested here](https://github.com/vitejs/vite/issues/7358), which I've implemented in this project.
 
