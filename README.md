@@ -1,6 +1,6 @@
 # Vite GitHub Pages deployment template
 
-A simple but robust deployment of a Vite app to GitHub Pages.
+A simple but robust deployment of a Vite app to GitHub Pages. This project uses React + TypeScript as an example, but [you can easily switch to a different stack by following the instructions below][#switching-away-from-react-+-typescript].
 
 [The Actions workflow](./.github/workflows/publish.yaml) is built from a combination of the [Vite documentation on static sites][vite-static], the documentation from the various GitHub Actions in use and my own wisdom.
 
@@ -12,6 +12,13 @@ Press the _Use this template_ button (or equivalent for your language) near wher
 [See GitHub's docs on creating a repository from a template][template-docs] for more details.
 
 [template-docs]: https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template
+
+## Switching away from React + TypeScript
+
+1. Create a new project using the desired create-vite template by [following the Vite getting started guide][vite-get-started].
+2. Copy the contents of the `.github` directory from this repo to your new project -- it'll work with any project generated from Vite's templates.
+
+[vite-get-started]: https://vitejs.dev/guide/
 
 ## Fixing the broken Vite logo (fix now merged upstream!)
 
