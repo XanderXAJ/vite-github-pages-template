@@ -6,6 +6,13 @@ A simple but robust deployment of a Vite app to GitHub Pages.
 
 [vite-static]: https://vitejs.dev/guide/static-deploy.html
 
+## Create a new repo from this template
+
+Press the _Use this template_ button (or equivalent for your language) near where the _Code_ button usually is.
+[See GitHub's docs on creating a repository from a template][template-docs] for more details.
+
+[template-docs]: https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template
+
 ## Fixing the broken Vite logo (fix now merged upstream!)
 
 When production building the app for GitHub Pages, you'll notice the that the Vite logo ends up broken.
