@@ -6,7 +6,7 @@ A simple but robust deployment of a Vite app to GitHub Pages.
 
 [vite-static]: https://vitejs.dev/guide/static-deploy.html
 
-## Fixing the broken Vite logo
+## Fixing the broken Vite logo (fix now merged upstream!)
 
 When production building the app for GitHub Pages, you'll notice the that the Vite logo ends up broken.
 
@@ -32,4 +32,4 @@ npm run preview -- --base /test
 npm run dev -- --base /test
 ```
 
-[I've raised an MR to fix this](https://github.com/vitejs/vite/pull/12374) for anyone generating projects in the future.
+[I've raised an MR to fix this](https://github.com/vitejs/vite/pull/12374) for anyone generating projects in the future. **Update 2022-03-11: Now merged!**
