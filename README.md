@@ -1,4 +1,4 @@
-# Vite GitHub Pages deployment demo
+# Vite GitHub Pages deployment template
 
 A simple but robust deployment of a Vite app to GitHub Pages.
 
