@@ -1,6 +1,6 @@
 # Vite GitHub Pages deployment template
 
-A simple but robust deployment of a Vite app to GitHub Pages. This project uses React + TypeScript as an example, but [you can easily switch to a different stack by following the instructions below][#switching-away-from-react-+-typescript].
+A simple but robust deployment of a Vite app to GitHub Pages. This project uses React + TypeScript as an example, but [you can easily switch to a different stack by following the instructions below](#switching-away-from-react--typescript).
 
 [The Actions workflow](./.github/workflows/publish.yaml) is built from a combination of the [Vite documentation on static sites][vite-static], the documentation from the various GitHub Actions in use and my own wisdom.
 
