@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch: # Allow manual invocations of this workflow
 
 # Allow one concurrent deployment
 concurrency:
