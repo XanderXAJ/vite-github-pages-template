@@ -45,6 +45,6 @@ jobs:
 
     runs-on: ubuntu-latest
     steps:
-      - name: Deploy pages
+      - name: Deploy pages artifact
         uses: actions/deploy-pages@v1
         id: deployment
