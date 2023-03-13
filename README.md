@@ -13,7 +13,7 @@ Press the _Use this template_ button (or equivalent for your language) near wher
 
 Once created, the repo's Pages configuration needs to be switched to GitHub Actions mode.
 Go to the repo > _Settings_ > _Pages_ > and change _Source_ to **GitHub Actions**.
-[See _Publishing with a custom GitHub Actions workflow_ in GitHub's documentation][pacges-actions-publishing].
+[See _Publishing with a custom GitHub Actions workflow_ in GitHub's documentation][pages-actions-publishing].
 
 [template-docs]: https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template
 [pages-actions-publishing]: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow
