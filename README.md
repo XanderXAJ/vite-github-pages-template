@@ -51,4 +51,4 @@ npm run preview -- --base /test
 npm run dev -- --base /test
 ```
 
-[I've raised an MR to fix this](https://github.com/vitejs/vite/pull/12374) for anyone generating projects in the future. **Update 2022-03-11: Now merged!**
+[I've raised an MR to fix this](https://github.com/vitejs/vite/pull/12374) for anyone generating projects in the future. **Update 2023-03-11: Now merged!**
